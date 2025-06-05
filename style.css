@@ -34,8 +34,9 @@ nav {
 }
 
 .logo {
-  height: 100%;
+ max-height: 90px;
   object-fit: contain;
+  align-self: center;
 }
 
 /* Parte Hero */
